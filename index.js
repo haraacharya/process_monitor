@@ -11,5 +11,5 @@ app.get("/", function(req, res){
 
 
 app.listen(3000, function(){
-  console.log("The YelpCamp server has started");
+  console.log("The process monitor server has started");
 });
